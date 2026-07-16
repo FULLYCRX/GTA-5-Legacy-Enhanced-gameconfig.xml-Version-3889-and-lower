@@ -7,7 +7,7 @@ This repository serves as a central location for known-working gameconfig files 
 This gameconfig is generally kept in sync with the version included with [RDE 4](https://www.gta5-mods.com/misc/realism-dispatch-enhanced).
 
 The [versions](https://github.com/FULLYCRX/GTA-5-Legacy-Enhanced-gameconfig.xml-Version-3889-and-lower/releases/tag/Version) folder has a folder for each supported GTA V build number, containing the gameconfig.xml for 
-that game version. For the latest game version, check the [releases](https://github.com/FULLYCRX/GTA-5-Legacy-Enhanced-gameconfig.xml-Version-3889-and-lower/releases/tag/Version)). 
+that game version. For the latest game version, check the [releases](https://github.com/FULLYCRX/GTA-5-Legacy-Enhanced-gameconfig.xml-Version-3889-and-lower/releases/tag/Version). 
 
 ## LML Installation instructions
  1. Open the Mod Manager UI
