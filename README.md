@@ -1,0 +1,2 @@
+# GTA-5-Legacy-Enhanced-gameconfig.xml-Version-3889-and-lower
+Add-on mods in GTA V typically require a modified gameconfig.xml to increase various memory pool limits. This repository serves as a central location for known-working gameconfig files for each GTA V update. This gameconfig is generally kept in sync with the version included with RDE 4. This has been updated to work with the latest version of GTA 5
