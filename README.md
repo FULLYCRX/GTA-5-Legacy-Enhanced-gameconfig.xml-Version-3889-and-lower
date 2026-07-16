@@ -6,7 +6,7 @@ Add-on mods in GTA V typically require a modified gameconfig.xml to increase var
 This repository serves as a central location for known-working gameconfig files for each GTA V update.
 This gameconfig is generally kept in sync with the version included with [RDE 4](https://www.gta5-mods.com/misc/realism-dispatch-enhanced).
 
-The [versions](versions) folder has a folder for each supported GTA V build number, containing the gameconfig.xml for 
+The ([versions](https://github.com/FULLYCRX/GTA-5-Legacy-Enhanced-gameconfig.xml-Version-3889-and-lower/releases/tag/Version)) folder has a folder for each supported GTA V build number, containing the gameconfig.xml for 
 that game version. For the latest game version, check the [releases](https://github.com/pnwparksfan/gameconfig/releases). 
 
 ## LML Installation instructions
