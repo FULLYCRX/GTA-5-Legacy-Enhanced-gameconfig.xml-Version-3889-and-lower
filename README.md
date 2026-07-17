@@ -35,10 +35,13 @@ that game version. For the latest game version, check the [releases](https://git
 
 ## Credits
 
- - Game updates maintained by: PNWParksFan and Jax765
+ - Game updates maintained by: I_AM_FULLYCRX/fullcrxstiano_7
  - Original primary gameconfig adjustments: Dilapidated
  - Reverse engineering/research by: alexguirre, CamxxCore, and Dilapidated 
  - Additional assistance from: Unknown, PNWParksFan, Cass, Jax765, and the RDE Team
 
-Permissions: You may redistribute these XMLs in your own mods permitted you give credit and leave all commented lines in the XML intact. 
-If you make any new gameconfig discoveries or find better settings, please make a Pull Request.
+## You may redistribute these XMLs in your own mods as long as you give credit and If you make any new gameconfig discoveries or find better settings, please make a Pull Request.
+
+# Support
+[I_AM_FULLYCRX Official Discord](https://discord.gg/6QchSKDY7j)
+[Iron Justice Roleplay Official Discord](https://discord.gg/YJXZagSzh7)
